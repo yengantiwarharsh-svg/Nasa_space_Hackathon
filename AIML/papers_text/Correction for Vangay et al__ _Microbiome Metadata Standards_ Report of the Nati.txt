@@ -1,0 +1,26 @@
+Title: Correction for Vangay et al., “Microbiome Metadata Standards: Report of the National Microbiome Data Collaborative’s Workshop and Follow-On Activities”
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8269219/
+
+Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+
+Primary site navigation
+
+Logged in as:
+
+Citation Vangay P, Burgin J, Johnston A, Beck KL, Berrios DC, Blumberg K, Canon S, Chain P, Chandonia J-M, Christianson D, Costes SV, Damerow J, Duncan WD, Dundore-Arias JP, Fagnan K, Galazka JM, Gibbons SM, Hays D, Hervey J, Hu B, Hurwitz BL, Jaiswal P, Joachimiak MP, Kinkel L, Ladau J, Martin SL, McCue LA, Miller K, Mouncey N, Mungall C, Pafilis E, Reddy TBK, Richardson L, Roux S, Schriml LM, Shaffer JP, Sundaramurthi JC, Thompson LR, Timme RE, Zheng J, Wood-Charlson EM, Eloe-Fadrosh EA. 2021. Correction for Vangay et al., “Microbiome metadata standards: report of the National Microbiome Data Collaborative’s workshop and follow-on activities.” mSystems 6:e00273-21. https://doi.org/10.1128/mSystems.00273-21 .
+
+Corresponding author.
+
+Collection date 2021 May-Jun.
+
+This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International license .
+
+Volume 6, no. 1, e01194-20, 2021, https://doi.org/10.1128/mSystems.01194-20 . The article byline and affiliation line should read as given in this correction.
+
+Articles from mSystems are provided here courtesy of American Society for Microbiology (ASM)
+
+Connect with NLM
+
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894

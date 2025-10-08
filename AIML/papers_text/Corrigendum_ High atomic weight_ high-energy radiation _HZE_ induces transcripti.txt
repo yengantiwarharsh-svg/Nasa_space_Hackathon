@@ -1,0 +1,38 @@
+Title: Corrigendum: High atomic weight, high-energy radiation (HZE) induces transcriptional responses shared with conventional stresses in addition to a core “DSB” response specific to clastogenic treatments
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5116466/
+
+Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+
+Primary site navigation
+
+Logged in as:
+
+Edited and reviewed by: Alma Balestrazzi, University of Pavia, Italy
+
+*Correspondence: Anne B. Britt abbritt@ucdavis.edu
+
+This article was submitted to Plant Physiology, a section of the journal Frontiers in Plant Science
+
+†Co-first authors.
+
+Received 2016 Oct 31; Accepted 2016 Nov 7; Collection date 2016.
+
+Keywords: DNA repair, double-strand breaks, transcriptomics, stress, cell-cycle, ionizing radiation, HZE, gamma radiation
+
+This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+Due to an oversight, the placeholder for the accession number for our microarray dataset was not updated in the published article. The correct text for the section “Accession Number” should read:
+
+All of our microarray data has been deposited in the Gene Expression Omnibus ( http://www.ncbi.nlm.nih.gov/geo ) with the accession number [ GSE61484 ].
+
+The authors apologize for this oversight. This does not affect the scientific conclusions of the article in any way.
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Articles from Frontiers in Plant Science are provided here courtesy of Frontiers Media SA
+
+Connect with NLM
+
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
